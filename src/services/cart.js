@@ -10,6 +10,6 @@ async function deleteItem(userCart, name) {}
 
 // remove an item - 1 item
 async function removeItem(userCart, index) {}
-// calculate the total
 
-async function name(params) {}
+// calculate the total
+async function calculateTotal(userCart) {}
